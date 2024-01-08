@@ -29,6 +29,3 @@ def time_until():
 
 if __name__ == '__main__':
     time_until()
-
-if __name__ == '__main__':
-    time_until()
