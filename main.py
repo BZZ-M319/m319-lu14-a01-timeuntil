@@ -1,12 +1,6 @@
-def calculate():
-    """
-    calculates the total
-    :return: None
-    """
-    price = 15.75
-    quantity = 3  # TODO change quantity to 5
-    print(f'Total: {price * quantity}')
+
+# TODO: define and implement function time_until()
 
 
 if __name__ == '__main__':
-    calculate()
+    time_until()
