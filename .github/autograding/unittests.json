@@ -1,0 +1,8 @@
+[
+  {
+    "name": "test_time_until_function_exists",
+    "function": "test_time_until_function_exists",
+    "timeout": 10,
+    "points": 1
+  }
+]
